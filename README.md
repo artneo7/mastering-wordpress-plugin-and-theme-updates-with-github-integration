@@ -1,6 +1,6 @@
-# Mastering WordPress Plugin & Theme Updates with GitHub Integration
+# Mastering WordPress Plugin & Theme Updates with GitHub
 
-> Access the course: (link)
+> Access the course: [Mastering WordPress Plugin & Theme Updates with GitHub](https://www.udemy.com/course/draft/6229247/?referralCode=D5603E4C41EA25771004)
 
 **Lessons**
 
@@ -160,4 +160,4 @@ I'm here to support you, so please don't hesitate to reach out if you have any q
 
 If you have a moment, I would greatly appreciate it if you could leave a review on Udemy. Your feedback not only guides me but also helps fellow learners discover this course.
 
-Happy coding!
+God bless you! Happy coding! 🧑🏻‍💻🚀
